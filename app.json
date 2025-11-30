@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "react-native-expo-nativewind-mmkv",
-    "slug": "react-native-expo-nativewind-mmkv",
+    "name": "react-native-test",
+    "slug": "react-native-test",
     "version": "1.0.0",
-    "scheme": "react-native-expo-nativewind-mmkv",
+    "scheme": "react-native-test",
     "platforms": ["ios", "android"],
     "web": {
       "bundler": "metro",
@@ -32,7 +32,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.reactnativeexponativewindmmkv"
+      "package": "com.anonymous.reactnativetest"
     }
   }
 }

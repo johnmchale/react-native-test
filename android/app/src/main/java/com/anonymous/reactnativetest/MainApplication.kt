@@ -1,4 +1,4 @@
-package com.anonymous.reactnativeexponativewindmmkv
+package com.anonymous.reactnativetest
 
 import android.app.Application
 import android.content.res.Configuration
