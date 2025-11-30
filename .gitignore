@@ -1,0 +1,28 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Expo Router env
+expo-env.d.ts
+
+# macOS
+.DS_Store
+
+# Android build caches
+android/app/build/
+android/.gradle/
+**/.cxx/
+
+# iOS build caches
+ios/build/
+
+# Temporary Metro health watcher files
+.metro-health-check*
